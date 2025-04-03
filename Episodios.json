@@ -1,0 +1,29 @@
+{
+  "categorias": [
+    {
+      "nome": "Animes",
+      "episodios": [
+        {
+          "titulo": "Episódio 1",
+          "url": "https://github.com/user-attachments/assets/22440764-0d7e-438e-a44d-d0dad1006d3d",
+          "capa": "https://raw.githubusercontent.com/eucmods/ModMenu/refs/heads/master/app/src/main/res/drawable/ic_launcher.png"
+        },
+        {
+          "titulo": "Episódio 2",
+          "url": "https://meuservidor.com/videos/episodio2.mp4",
+          "capa": "https://meuservidor.com/capas/episodio2.jpg"
+        }
+      ]
+    },
+    {
+      "nome": "Filmes",
+      "episodios": [
+        {
+          "titulo": "Filme 1",
+          "url": "https://meuservidor.com/videos/filme1.mp4",
+          "capa": "https://meuservidor.com/capas/filme1.jpg"
+        }
+      ]
+    }
+  ]
+}
